@@ -1,6 +1,6 @@
 ### Olá, eu sou o Marcos! 👋
 
-💻 **Desenvolvedor Back-end** apaixonado por tecnologia e resolução de problemas. Atualmente estudando **IA, Python e JavaScript**.
+💻 **Desenvolvedor** apaixonado por tecnologia e resolução de problemas. Atualmente estudando **IA, Python e JavaScript**.
 
 📚 Sempre aprendendo e explorando novas tecnologias!
 
