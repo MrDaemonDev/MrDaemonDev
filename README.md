@@ -1,16 +1,25 @@
-## Hi there 👋
+### Olá, eu sou o Marcos! 👋
 
-<!--
-**MrDaemonDev/MrDaemonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Back-end** apaixonado por tecnologia e resolução de problemas. Atualmente estudando **IA, Python e JavaScript**.
 
-Here are some ideas to get you started:
+📚 Sempre aprendendo e explorando novas tecnologias!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+![IA](https://img.shields.io/badge/IA-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+💡 **Outras Skills:** HTML, CSS, Git, Photoshop, Java]
+
+---
+
+## 📫 Como me Encontrar
+
+📧 **E-mail:** [marcos08072006@gmail.com](mailto:marcos08072006@gmail.com) 
+
+---
+
+🎉 Obrigado por visitar meu perfil! Se gostou me siga, e vamos codar juntos! 🚀
