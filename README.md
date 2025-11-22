@@ -1,25 +1,54 @@
-### Olá, eu sou o Marcos! 👋
+<img src = "githubanner.jpg"/>
 
-💻 **Desenvolvedor** apaixonado por tecnologia e resolução de problemas. Atualmente estudando **IA, Python e JavaScript**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mr-daemon-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-📚 Sempre aprendendo e explorando novas tecnologias!
+<br/>
 
----
+<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>Sobre mim</em> </h2>
 
-## 🚀 Tecnologias
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
 
-![IA](https://img.shields.io/badge/IA-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  Fala aí! Sou o <b>Marcos</b>, estudante de Tecnologia da Informação, apaixonado por computadores, programação e jogos.  
+  Curto criar projetos, fuçar código, testar sistemas, montar setups e explorar tudo que envolve tecnologia.  
+  Vivo estudando, evoluindo e me divertindo com o que faço.
+</p>
 
-💡 **Outras Skills:** HTML, CSS, Git, Photoshop, Java]
+<br/>
 
----
+<p align="center">
+   <img src="/imgs/img3.png" width="15"/> <b> Estudante de TI na Fatec </b><br/>
+   <img src="/imgs/img4.png" width="15"/> <b> Interesse em desenvolvimento web e sistemas </b><br/>
+   <img src="/imgs/img1.png" width="15"/> <b> Apaixonado por hardware e games </b><br/>
+   <img src="/imgs/img2.png" width="15"/> <b> Sempre testando ferramentas e tecnologias novas </b><br/>
+</p>
 
-## 📫 Como me Encontrar
+<br/>
+<br/>
 
-📧 **E-mail:** [marcos08072006@gmail.com](mailto:marcos08072006@gmail.com) 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
----
+<br/>
+<br/>
 
-🎉 Obrigado por visitar meu perfil! Se gostou me siga, e vamos codar juntos! 🚀
+<h2 align="center"> <img src="/imgs/title3.png" width="25"/> <em>Estatísticas</em> </h2>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcos&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)
+
+![](https://nirzak-streak-stats.vercel.app/?user=marcos&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)
+
+</div>
