@@ -42,8 +42,3 @@
   <img src="https://img.shields.io/badge/Redes-000000?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
-
-<br/>
-<br/>
-
-<h2 align="center"> <img src="/imgs/title3.png" width="25"/> <em>Estatísticas</em> </h2>
