@@ -42,3 +42,16 @@
   <img src="https://img.shields.io/badge/Redes-000000?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
+
+<br/>
+<br/>
+
+<h2 align="center"> <img src="/imgs/title3.png" width="25"/> <em>Estatísticas</em> </h2>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrDaemonDev&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)
+
+![](https://nirzak-streak-stats.vercel.app/?user=MrDaemonDev&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)
+
+</div>
