@@ -47,11 +47,3 @@
 <br/>
 
 <h2 align="center"> <img src="/imgs/title3.png" width="25"/> <em>Estatísticas</em> </h2>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcos&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)
-
-![](https://nirzak-streak-stats.vercel.app/?user=marcos&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)
-
-</div>
